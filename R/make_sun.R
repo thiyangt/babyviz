@@ -2,7 +2,7 @@
 #'
 #'
 #'
-make_sun <- function(){
+make_sun <- function(circle=TRUE){
 
 # Sun core (circle)
 circle <- data.frame(
